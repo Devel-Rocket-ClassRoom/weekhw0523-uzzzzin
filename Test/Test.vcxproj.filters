@@ -8,16 +8,25 @@
     <Filter Include="Homework_02">
       <UniqueIdentifier>{d37363e6-aba0-41ed-9b9c-f9b9aab65b02}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Homework_03">
+      <UniqueIdentifier>{76c5b149-69da-4767-8090-2b90b8f53be6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Homework_02.cpp">
       <Filter>Homework_02</Filter>
     </ClCompile>
+    <ClCompile Include="Homework_03.cpp">
+      <Filter>Homework_03</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Homework_02.h">
       <Filter>Homework_02</Filter>
+    </ClInclude>
+    <ClInclude Include="Homework_03.h">
+      <Filter>Homework_03</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
